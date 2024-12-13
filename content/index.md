@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: 중꺾그마
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+> [!info] 중꺾그마
+>중요한 것은 꺾였지만 그냥 하는 마음이라는 뜻이다.
