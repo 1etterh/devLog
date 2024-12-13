@@ -8,7 +8,7 @@ tags:
 ---
 # [[Process]]
 
-![[java_process.png]]
+![[content/Java/assets/java_process.png]]
 
  - Application.Class(Byte Code): JVM이 이해할 수 있는 언어
  - binary Code: CPU가 이해할 수 있는 언어

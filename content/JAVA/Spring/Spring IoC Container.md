@@ -27,6 +27,6 @@ draft: false
 3. 이벤트 발행
 4. Application-layer 컨텍스트(ex. WebApplicationContext)
 
-![[IoCContainer_00.png]]
+![[content/Java/Spring/assets/IoCContainer_00.png]]
 ### references
 [_Container Overview_](https://docs.spring.io/spring-framework/reference/core/beans/basics.html)

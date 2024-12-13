@@ -45,7 +45,7 @@ tags:
 5. " * ": 1개면서 모든 값이 올 수있음  
 6. " .. ": 0개 이상의 모든 값이 올 수 있음
 #### 표현식 예시
-![[Pointcut_00.png]]
+![[content/Java/Spring/assets/Pointcut_00.png]]
 
 ## Advice
 1. Before Advice: 대상 메소드가 실행되기 이전에 실행

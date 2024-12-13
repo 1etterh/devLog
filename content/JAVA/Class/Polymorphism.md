@@ -8,11 +8,11 @@ tags:
 > 상속 관계의 객체들간의 형 변환을 의미하며, 상위 객체 배열을 통해 다수의 인스턴스를 연속 처리할 수 있다.
 
 
-![[Polymorphism_0.png]]
+![[content/Java/Class/assets/Polymorphism_0.png]]
 
 > Class D 는 세가지 타입으로 정의될 수 있다.(A,B,D)
 
-![[Polymorphism_1.png]]
+![[content/Java/Class/assets/Polymorphism_1.png]]
 
 
 ### [[Dynamic Binding|동적 바인딩]]

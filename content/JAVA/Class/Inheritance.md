@@ -90,7 +90,7 @@ public class RacingCar extends Car {
 > Intellij IDEA는 작성된 코드를 토대로 Class Diagram을 보여주는 기능이 있다. <br/>
 > (`ctrl` + `alt` + `shift` + `U`)
 
-![[IntelliJ_ClassDiagram.png]]
+![[content/Java/Class/assets/IntelliJ_ClassDiagram.png]]
 
 
 # Object

@@ -8,4 +8,4 @@ draft: false
 > Client는 Forward 사실을 모르기 때문에 새로고침을 하면 같은 요청이 여러번 날아가는 문제가 생김
 
 
-![[forward_00.png]]
+![[content/Java/Servlet/assets/forward_00.png]]

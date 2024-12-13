@@ -40,7 +40,7 @@ public interface InterProduct extends ParentInterProduct, AnotherParentInterProd
 > 다수이의 클래스를 한번에 처리하기 위해 사용한다.<br/>
 > ex) _Serializable_ 
 
-![[marker_interface.png]]
+![[content/Java/Class/assets/marker_interface.png]]
 
 # [[Abstract Class]] vs Interface
 > 추상클래스가 부분적 규약이라면, 인터페이스는 규약 그 자체라고 이해할 수 있다.

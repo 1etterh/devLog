@@ -8,7 +8,7 @@ tags:
 > Generic Class을 사용함 (ex. List<\Integer>)
 
 # Hierarchy
-![[Collectin_Framework_Hierarchy.png]]
+![[content/Java/Collections/assets/Collectin_Framework_Hierarchy.png]]
 
 
 # 분류

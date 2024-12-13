@@ -19,7 +19,7 @@ public class Member {
 }
 ```
 
-![[class_0.png]]
+![[content/Java/Class/assets/class_0.png]]
 
 - stack 영역의 member 변수는 heap 영역에 있는 객체의 주소값을 저장한다.
 - 만약 heap 영역의 객체의 자료형이 참조형이라면 객체에는 해당 참조형의 주소값이 저장된다.
@@ -48,7 +48,7 @@ public class Member {
 ##### [[Abstract Class]]
 > 추상 메소드를 0개 이상 포함하는 클래스
 
-##### [[Interface]]
+##### [[content/Java/Class/Interface]]
 > 클래스의 변형, 다수의 개발자가 미리 정의된 규칙을 따르도록 하거나 다형성을 적용하여 동적 바인딩을 하기 위해 사용한다.
 
 ##### [[content/JAVA/Class/Object]]

@@ -9,10 +9,10 @@ draft: false
 # Setup
 #### 1. Generator
 
-![[SpringSetup_00.png]]
+![[content/Java/Spring/SpringBoot/assets/SpringSetup_00.png]]
 - Spring Boot 선택
 #### 2. Dependencies
-![[SpringSetup_01.png]]
+![[content/Java/Spring/SpringBoot/assets/SpringSetup_01.png]]
 - Spring Boot DevTools
 - Spring Web
 - Thymeleaf 선택

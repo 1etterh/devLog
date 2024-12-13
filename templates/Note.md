@@ -1,7 +1,6 @@
 ---
 tags: 
 draft: 
-mermaid: 
 description:
 ---
 ## Title

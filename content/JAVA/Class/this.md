@@ -7,7 +7,7 @@ tags:
 > `this`는 맥락에 따라 다양한 의미를 지닌다.
 # Cases
 ##### 1. Method를 호출한 객체를 의미하는 경우
-![[super_1.png]]
+![[content/Java/Class/assets/super_1.png]]
 ##### 2.  생성자가 타 생성자를 이용하는 경우
 ```Java
 public User(String id, String pwd, String name) { 

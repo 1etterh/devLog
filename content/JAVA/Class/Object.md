@@ -34,7 +34,7 @@ tags:
 > Object의 equals를 [[Overriding|오버라이드]] 하여 지정된 필드가 같은 값을 가지는지(동등) 확인할 수 있다.
 > 일반적으로 hash값을 먼저 비교하여 시간을 단축한 후 필드 값을 비교해나가는 방식을 취한다.
 
-![[equals_hash.png]]
+![[content/Java/Class/assets/equals_hash.png]]
 ```Java
 @Override  
 public boolean equals(Object o) {  

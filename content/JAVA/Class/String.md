@@ -15,11 +15,11 @@ tags:
 String str1 = "java";
 String str2 = "java";
 ```
-![[constantpool.png]]
+![[content/Java/Class/assets/constantpool.png]]
 1. str1이 리터럴 형태로 생성되면 str1 객체는 Heap 영역의 `constant pool`에 저장되고 str1에는 그 주소값이 저장된다.
 2. str2를 생성할 때 `constant pool`에 같은 값을 가지는 객체가 있으면(`h,e 탐색`) 새로운 객체를 생성하지 않고 str1 객체의 주소값을 복사한다(shallow copy). 
 #### 2. 생성자 선언
-![[String_constructor.png]]
+![[content/Java/Class/assets/String_constructor.png]]
 
 ```Java
 String str3 = new String("java");  

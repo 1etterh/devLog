@@ -24,7 +24,7 @@ tags:
 > IoC 컨테이너 객체가 생성되어야 Bean이 인식됨
 
 #### Spring Framework Overview
-![[IoCContainer_00.png]]
+![[content/Java/Spring/assets/IoCContainer_00.png]]
 # references
 1. [Spring.io](https://spring.io/) : Spring 공식 홈페이지
 2. [Docs](https://docs.spring.io/spring-framework/reference/index.html) : Spring 공식 문서

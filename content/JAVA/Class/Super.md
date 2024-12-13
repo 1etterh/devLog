@@ -69,11 +69,11 @@ public Computer() {
 ### `super.` 호출 구조
 ##### 이론적 구조
 
-![[super_0.png]]
+![[content/Java/Class/assets/super_0.png]]
 
 ##### 물리적 구조
 
-![[super_2.png]]
+![[content/Java/Class/assets/super_2.png]]
 
 ### `super()` 호출 구조
 
@@ -82,14 +82,14 @@ public Computer() {
 ```Java
 Dog dog;
 ```
-![[super_3.png]]
+![[content/Java/Class/assets/super_3.png]]
 
 2. 자식 객체 생성시 자식의 Constructor는 `super()`를 사용하여 부모 객체 먼저 생성
 ```Java
 Dog dog = new Dog();
 ```
-![[super_4.png]]
+![[content/Java/Class/assets/super_4.png]]
 
 3. Dog(){} 생성자 함수가 끝나면 자식 객체 생성
 
-![[super5.png]]
+![[content/Java/Class/assets/super5.png]]

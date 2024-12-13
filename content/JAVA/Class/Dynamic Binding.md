@@ -32,7 +32,7 @@ Rabbit rabbit = (Rabbit) an1;
 ```
 
 
-![[dynamic_binding_0.png]]
+![[content/Java/Class/assets/dynamic_binding_0.png]]
 
 > method2, method3은 오버라이딩 된 메소드가 아니므로 다운 캐스팅을 해줘야 실행이 가능하다.
 

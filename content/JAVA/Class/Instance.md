@@ -4,7 +4,7 @@ tags:
   - class
   - oop
 ---
-> specific realization of [[class]]
+> specific realization of [[Class]]
 
 
 # Syntax
@@ -13,6 +13,6 @@ CarRacer racer = new CarRacer();
 ```
 
 
-![[instance_0.png]]
+![[content/Java/Class/assets/instance_0.png]]
 
 # [[this]]
