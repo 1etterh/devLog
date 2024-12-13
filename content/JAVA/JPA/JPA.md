@@ -2,7 +2,7 @@
 tags:
   - java
   - jpa
-draft: true
+draft: false
 ---
 > ORM   (Object Relational Mapping) API <br/>
 > 자바의 객체지향 과 DB의 관계 지향 사이의 불일치와 제약사항을 해결 
