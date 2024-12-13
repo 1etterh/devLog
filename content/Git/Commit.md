@@ -1,9 +1,11 @@
 ---
 tags:
   - git
+draft: true
 ---
 > [[Git]] 저장소에 디렉토리에 있는 모든 파일에 대한 스냅샷(Snapshot)을 기록하는 하나의 데이터 객체<br/>
-> delta, 즉 변화량의 단위는 파일 단위이다(코드 줄 단위가 아님)
+> 각 파일 객체의 변화만을 저장함.
+
 
 # definition
 > commit이 작동하는 방식이 궁금해서 git.git 의 commit 소스코드를 읽어봤다.
