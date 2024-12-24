@@ -6,7 +6,7 @@ draft: false
 ---
 > 자바의 동적 웹 페이지 생성 기술
 
-![[content/Java/Servlet/assets/Servlet_00.png]]
+![[content/Servlet/assets/Servlet_00.png]]
 
 
 ## Settings
@@ -14,13 +14,13 @@ draft: false
 1. Generators: Jakarta EE
 2. Template: Web Application
 3. Build: Gradle
-![[content/Java/Servlet/assets/Servlet_01.png]]
+![[content/Servlet/assets/Servlet_01.png]]
 
 #### 2. 프로젝트 세팅
 1. Edit Configurations
 2. VM options: `-Dfile.encoding=UTF-8`
 3. Deployment: Application context 수정(Context Root)
-![[content/Java/Servlet/assets/Servlet_02.png]]
+![[content/Servlet/assets/Servlet_02.png]]
 ## Terms
 
 #### [[HTTP]]

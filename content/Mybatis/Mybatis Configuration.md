@@ -27,7 +27,22 @@ tags:
 > cf. mapper, commands, transactions
 1. SqlSessionFactory: SqlSession 객체를 생성하기 위한 팩토리 역할을 수행
 2. SqlSessionFactoryBuilder: SqlSessionFactory를 생성함
+##### iv. typeAlias
+> Java Type에 대한 짧은 이름. 오직 XML에서만 사용되며, Typing을 줄이기 위해 존재함.
 
+1. MybatisConfig.xml에 추가
+```xml
+<typeAliases>  
+    <typeAlias type="com.ohgiraffers.section01.xmlconfig.MenuDTO" alias="MenuDTO"></typeAlias>  
+</typeAliases>
+```
+2. Java 클래스 위에 @Alias 추가
+```Java
+@Alias("MenuDTO")
+public class MenuDTO{
+...
+}
+```
 
 ## Syntax
 ### 1. Java Configuration
@@ -99,3 +114,7 @@ public static SqlSession getSqlSession() {
     return sqlSessionFactory.openSession(false);  
 }
 ```
+
+# refs
+1. [Mybatis Configuration](https://mybatis.org/mybatis-3/ko/configuration.html)
+2. 

@@ -19,7 +19,7 @@ draft: true
 
 
 
-![[content/Java/Spring/assets/IoCContainer_00.png]]
+![[content/Spring/assets/IoCContainer_00.png]]
 
 
 # Bean Scope
