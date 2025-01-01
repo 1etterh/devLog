@@ -15,12 +15,12 @@ N x N 크기의 농장
 길을 건너지 않으면 만날 수 없는 소가 몇 쌍인지 구해야 된다.(빨간 x가 길이라고 치자.)
 
 
-![[content/Algorithms/코테/python/assets/14466.png]]
+![[content/Algorithms/Baekjoon/python/assets/14466.png]]
 #### 풀이과정
 cows 배열에 속한 모든 소들에 대하여 소들이 속한 구역을 찾는다.
 1. bfs에서는 소가 갈 수 있는 길을 모두 소의 번호로 채운다.
 2. 만약 소가 이미 다른 구역에 속해있다면 그 소는 건너뛴다.
-![[content/Algorithms/코테/python/assets/14466_2.png]]
+![[content/Algorithms/Baekjoon/python/assets/14466_2.png]]
 
 c1,c2: 갈 수 있는 모든 칸에 표시.
 
@@ -43,17 +43,17 @@ print(res//2)#중복 제거
 이유를 알기 위해 다른 정답 코드들의 while문의 수를 계산해봤는데, while문의 횟수는 차이가 없었다. (오히려 내 코드가 더 적음...)
 왼쪽이 내 코드, 오른쪽이 다른 정답의 코드이다.
 확실히 while문이 돌아간 총 횟수는 내 코드가 더 적다. 그러나 처리 시간은 5배정도 더 걸렸다.
-![[content/Algorithms/코테/python/assets/14466_1.png]]
+![[content/Algorithms/Baekjoon/python/assets/14466_1.png]]
 역시 간단한 알고리즘 결과 비교는 엑셀이 짱...
 
 while문이 실행된 횟수:
 1. 내 코드
 
-	![[content/Algorithms/코테/python/assets/14466_3.png]]
+	![[content/Algorithms/Baekjoon/python/assets/14466_3.png]]
 2. 다른 정답 코드:
 
 	
-![[content/Algorithms/코테/python/assets/14466_4.png]]
+![[content/Algorithms/Baekjoon/python/assets/14466_4.png]]
 
 bfs 함수 자체의 문제 보다는 내부에 비교하는 로직이 잘못된 것 같아 다시 bfs 내부의 실행 시간을 확인해보니 bfs 내부에 있던 비교문에 문제가 있었다.
 
@@ -168,4 +168,4 @@ print(cnt//2)
 
 #### 결과
 
-![[content/Algorithms/코테/python/assets/14466_5.png]]
+![[content/Algorithms/Baekjoon/python/assets/14466_5.png]]

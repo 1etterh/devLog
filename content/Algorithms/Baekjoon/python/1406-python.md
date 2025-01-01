@@ -35,7 +35,7 @@ for _ in range(M):
 
 #### 입력예시
 
-![[content/Algorithms/코테/python/assets/1406.png]]
+![[content/Algorithms/Baekjoon/python/assets/1406.png]]
 
 
 #### 명령어 수행

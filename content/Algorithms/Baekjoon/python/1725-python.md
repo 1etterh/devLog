@@ -33,7 +33,7 @@ RIGHT: H[i]의 높이를 가질 수 있는 가장 오른쪽의 인덱스
 4. LEFT,RIGHT에는 자기 자신의 index도 포함해야 한다. (한 칸인 경우)
 6. 따라서 탐색 과정에서 자신보다 작은 요소의 인덱스의 바로 전 인덱스를 저장하는 방식을 사용했다.
 
-![[content/Algorithms/코테/python/assets/1725.png]]
+![[content/Algorithms/Baekjoon/python/assets/1725.png]]
 #### 알고리즘(LEFT, RIGHT)
 
 ```

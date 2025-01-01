@@ -39,7 +39,7 @@ Node를 지우려면 어떻게 할 지 고민해봤다.
 
 
 
-![[content/Algorithms/코테/python/assets/1068.png]]
+![[content/Algorithms/Baekjoon/python/assets/1068.png]]
 
 
 - list, dfs 사용

@@ -33,7 +33,7 @@ for i in range(n):
 
 2. 시작점이 주어져 있으므로 (r,c)에서 인접한 칸들의 거리를 계산하며 bfs를 시행했다.
 
-![[content/Algorithms/코테/python/assets/2178.png]]
+![[content/Algorithms/Baekjoon/python/assets/2178.png]]
 3. bfs에서 먼저 queue에 추가될 수록 가까움
 
 ![[2178 2.png]]

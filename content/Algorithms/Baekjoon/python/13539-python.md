@@ -12,7 +12,7 @@ tags:
 1. times[n]: n까지 걸리는 시간
 2. times[n-1], times[n+1] = times[n]+1
 3. times[2*n] = times[n]
-![[content/Algorithms/코테/python/assets/13539.png]]
+![[content/Algorithms/Baekjoon/python/assets/13539.png]]
 #### 풀이
 bfs와 dp사용
 

@@ -2,7 +2,7 @@
 tags:
   - spring
   - propagationoption
-draft: true
+draft: false
 ---
 > 다중 사용자 환경에서 데이터 일관성, 무결성을 보장하고 동시성을 관리하기 위한 방법
 

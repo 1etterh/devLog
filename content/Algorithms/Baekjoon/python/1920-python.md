@@ -16,7 +16,7 @@ tags:
 만약 x가 A(middle)보다 작다면 x는 start와 middle 사이에 있을 것이고(파란 영역), x가 A(middle)보다 크다면 x는 middle과 end 사이에 있을 것이다(빨간 영역).
 A(middle)이 x와 일치하면 탐색을 중단한다.
 
-![[content/Algorithms/코테/python/assets/1920binarysearch.png]]
+![[content/Algorithms/Baekjoon/python/assets/1920binarysearch.png]]
 
 ### 문제 풀이
 

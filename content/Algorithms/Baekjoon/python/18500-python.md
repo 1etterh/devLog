@@ -21,7 +21,7 @@ Croatian Highschool Competitions in informatics
 그나마 다행이라면 테케 4에서 해결했다는점...?
 여기서 못찾으면 테케5에서 찾아야됐음..ㅎ
 
-![[content/Algorithms/코테/python/assets/18500.png]]
+![[content/Algorithms/Baekjoon/python/assets/18500.png]]
 #### 틀린 이유 정리해드림(나만 해당될수도)
 1. 오른쪽에서 던질 때 
 

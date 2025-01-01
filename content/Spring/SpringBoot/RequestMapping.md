@@ -3,7 +3,7 @@ tags:
   - java
   - spring
   - springboot
-draft: true
+draft: false
 ---
 # 1. Mapping Annotations
 > 요청에 따라 실행할 메소드를 지정하는 annotation

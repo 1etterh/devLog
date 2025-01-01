@@ -22,14 +22,14 @@ tags:
 5. 간식을 받을 수 없는 경우: index+=1, Stack에 해당 학생 저장
 
 
-![[content/Algorithms/코테/python/assets/12789.png]]
+![[content/Algorithms/Baekjoon/python/assets/12789.png]]
 
 #### 예제
 
 
 
 
-![[content/Algorithms/코테/python/assets/12789-2.png]]
+![[content/Algorithms/Baekjoon/python/assets/12789-2.png]]
 #### 코드
 
 ```

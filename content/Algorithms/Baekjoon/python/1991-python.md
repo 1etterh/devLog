@@ -11,7 +11,7 @@ tags:
 이진 트리를 입력받아 전위 순회(preorder traversal), 중위 순회(inorder traversal), 후위 순회(postorder traversal)한 결과를 출력하는 프로그램을 작성하시오.
 
 
-![[content/Algorithms/코테/python/assets/treeorders.png]]
+![[content/Algorithms/Baekjoon/python/assets/treeorders.png]]
 
 
 예를 들어 위와 같은 이진 트리가 입력되면,

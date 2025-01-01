@@ -8,7 +8,7 @@ tags:
 ---
 사용 개념: 반복문(for loop)
 
-![[content/Algorithms/코테/python/assets/1992.png]]
+![[content/Algorithms/Baekjoon/python/assets/1992.png]]
 
 
 i번째 껍데기에 있는 벌집들은 모두 거리가 같다. 
