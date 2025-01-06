@@ -4,7 +4,7 @@ tags:
   - project
   - github
 ---
-> SyncDay 프로젝트에서 담당한 Github연동, Project 내용을 정리함
+> SyncDay 프로젝트에서 담당한 Github연동 내용 정리
 
 # refs
 1. [SyncDay 프로젝트](https://github.com/beyond-sw-camp/be09_fin_SyncDay)
@@ -13,5 +13,5 @@ tags:
 
 # Trouble Shooting
 1. [[Github App 설치]]
-2. [[content/TroubleShooting/Github API For Java|Github API For Java]]
+2. [[GitHub API for Java]]
 3. [[Github JWT Token]]
