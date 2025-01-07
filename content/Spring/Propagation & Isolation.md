@@ -14,6 +14,6 @@ draft: false
 
 ## references
 1. [Spring Transaction Management](https://docs.spring.io/spring-framework/reference/data-access/transaction/declarative.html)
-2. [JPA(Java Persistence API) Documentation]()
+2. [JPA(Java Persistence API) Documentation](https://docs.oracle.com/javaee/6/tutorial/doc/bnbpz.html)
 3. [MySQL Transaction and Locking Documentation](https://dev.mysql.com/doc/refman/8.0/en/innodb-transaction-model.html)
 4. [PostgreSQL Isolation Levels](https://www.postgresql.org/docs/current/transaction-iso.html)
