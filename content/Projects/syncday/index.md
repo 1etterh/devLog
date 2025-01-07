@@ -9,7 +9,7 @@ tags:
 # refs
 1. [SyncDay 프로젝트](https://github.com/beyond-sw-camp/be09_fin_SyncDay)
 2. [[기존 서비스 분석]]
-3. [[SyncDay Refactoring]]
+3. [[SyncDay 회고]]
 
 # Trouble Shooting
 1. [[Github App 설치]]

@@ -27,6 +27,7 @@ description:
 4. 의견 조율을 위한 의사 결정 시스템의 도입이 늦어졌다.
 
 ## 3. 앞으로 계획
-1. Frontend: store와 api 분리하기
+1. Frontend: store와 api 더 확실히 분리하기
 2. ERP 적인 기능은 제거하고 소셜 로그인 기능을 추가 
 3. JIRA를 활용하여 구조를 개선하고 실제 구현과정에서 기획이 제대로 됐는지 확인
+4. GitLab의 Elastic Search를 사용해보고자 Refactoring 코드는 GitLab에 저장해보려고 한다.
