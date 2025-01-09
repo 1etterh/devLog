@@ -9,13 +9,12 @@ tags: []
 ### Beyond SW Camp 9기
 > Full Stack 웹 개발 교육 프로그램 수료
 ### MarqVision
-> 인턴
+> 업무 자동화를 통한 공헌 이익 개선 프로젝트 참여
 
-### Ewha Womans University
-> 컴퓨터 공학과 졸업
 ## Skills
 ### Backend
-#java #spring #springboot #jpa #mybatis 
-
+#java #spring #springboot #jpa #mybatis #sql
 #### Frontend
 #vue #vuejs 
+
+
