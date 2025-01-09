@@ -2,7 +2,20 @@
 title: 중꺾그마
 tags: []
 ---
->[!info] 중꺾그마
->중요한건 꺾였지만 그냥 하는 마음이라는 뜻이다.
+## Introduction
+> 웹 개발자 김서현입니다.
 
+## Experiences
+### Beyond SW Camp 9기
+> Full Stack 웹 개발 교육 프로그램 수료
+### MarqVision
+> 인턴
 
+### Ewha Womans University
+> 컴퓨터 공학과 졸업
+## Skills
+### Backend
+#java #spring #springboot #jpa #mybatis 
+
+#### Frontend
+#vue #vuejs 
